@@ -98,7 +98,7 @@ The dataset contains:
 
 ## Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+![Dashboard](Excel%20Sales%20Analytics%20Dashboard.png)
 
 ---
 
